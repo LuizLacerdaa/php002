@@ -24,23 +24,19 @@ include "cabecalho.php";
         <span>⭐ 10/10</span>
     </div>
     <div class="card-filme">
-        <img src="imagens/" alt="">
-        <h3></h3>
+        <img src="imagens/velozes.jfif" alt="Velozes e Furiosos 9">
+        <h3>Velozes e Furiosos 9</h3>
         <span>⭐ 10/10</span>
     </div>
     <div class="card-filme">
-        <img src="imagens/" alt="">
-        <h3></h3>
+        <img src="imagens/velozes.jfif" alt="Velozes e Furiosos 9">
+        <h3>Velozes e Furiosos 9</h3>
         <span>⭐ 10/10</span>
     </div>
     <div class="card-filme">
-        <img src="imagens/" alt="">
-        <h3></h3>
+        <img src="imagens/velozes.jfif" alt="Velozes e Furiosos 9">
+        <h3>Velozes e Furiosos 9</h3>
         <span>⭐ 10/10</span>
     </div>
-    <div class="card-filme">
-        <img src="imagens/" alt="">
-        <h3></h3>
-        <span>⭐ 10/10</span>
-    </div>
+    
 </div>

@@ -16,7 +16,7 @@
         <nav>
             <a href="filmes.php">Home</a>
             <a href="listadefilmes.php">Lista de Filmes</a>
-            <a href="index.php">Home</a>
-            <a href="index.php">Home</a>
+            <a href="listadenoticias.php">Noticias</a>
+            <a href="contato.php">Contato</a>
         </nav>
     </header>
