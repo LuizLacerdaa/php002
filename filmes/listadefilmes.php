@@ -5,17 +5,23 @@ include "cabecalho.php";
 <div class="lista-filmes">
     <div class="card-filme">
         <img src="imagens/baba.jfif" alt="Operação Baba">
-        <h3>Operação Baba</h3>
+        <a href="umfilme.php">
+            <h3>Operação Baba</h3>
+        </a>
         <span>⭐ 10/10</span>
     </div>
     <div class="card-filme">
         <img src="imagens/carros.jfif" alt="Carros 3">
-        <h3>Carros 3</h3>
+        <a href="umfilme.php">
+            <h3>Carros 3</h3>
+        </a>
         <span>⭐ 10/10</span>
     </div>
     <div class="card-filme">
         <img src="imagens/fada.jfif" alt="Operação Baba">
-        <h3>O Fada do Dente</h3>
+        <a href="umfilme.php">
+            <h3>O Fada do Dente</h3>
+        </a>
         <span>⭐ 10/10</span>
     </div>
     <div class="card-filme">
@@ -38,5 +44,5 @@ include "cabecalho.php";
         <h3>Velozes e Furiosos 9</h3>
         <span>⭐ 10/10</span>
     </div>
-    
+
 </div>
